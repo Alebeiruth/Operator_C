@@ -9,7 +9,7 @@ int main() {
  const char appleLocation = 'F';
  int dayOfWeek = 0;
  dayOfWeek += 5;
-appleReview = (823 + 52)/10;
+ appleReview = (823 + 52)/10;
 
  appleQuantity = 23;
  appleReview = 82.5;
